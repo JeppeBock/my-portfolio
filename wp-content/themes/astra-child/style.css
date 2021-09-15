@@ -1,0 +1,90 @@
+/*
+ Theme Name:   astra-child
+ Theme URI:    http://localhost/portfolio2/wp-admin/
+ Description:  astra Child Theme
+ Author:       Jeppe Bock-Savage
+ Author URI:   http://localhost/portfolio2/wp-admin/
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachild
+*/
+.menu-link {
+    color: #00ffff !important;
+}
+
+.elementor-button-text {
+    font-family: 'Poppins' !important;
+}
+
+.elementor-button {
+    border-radius: 25px !important;
+    background-color: #de314f !important;
+    margin-left: 80px !important;
+}
+
+.elementor-element.elementor-element-dafd41e img {
+    border-radius: 400px !important;
+}
+
+.elementor-255 .elementor-element.elementor-element-25806d3 {
+    margin-bottom: 50px;
+}
+
+.elementor-255 .elementor-element.elementor-element-cb4d2ed .elementor-heading-title {
+    margin-left: -60px;
+}
+
+.elementor-255 .elementor-element.elementor-element-298bd73 > .elementor-widget-container {
+    margin: 0px 0px 0px -40px;
+}
+
+.entry-content p {
+    margin-bottom: 1.6em;
+    text-align: center;
+}
+
+address, blockquote, body, dd, dl, dt, fieldset, figure, h1, h2, h3, h4, h5, h6, hr, html, iframe, legend, li, ol, p, pre, textarea, ul {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
